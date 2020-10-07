@@ -35,7 +35,7 @@
   - [How the Secure model works](https://developer.arm.com/documentation/ddi0333/h/programmer-s-model/secure-world-and-non-secure-world-operation-with-trustzone/how-the-secure-model-works)
   - [TrustZone for Armv8-A](https://developer.arm.com/architectures/learn-the-architecture/trustzone-for-armv8-a/single-page)
 
-![switching-between-security-states](switching-between-security-states.png)
+![switching-between-security-states](../../images/004-20200912/switching-between-security-states.png)
 
 - secure 모드? 추가 연구 필요
 - armv8 - armv7 인셉션 모델 매핑
